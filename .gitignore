@@ -1,13 +1,6 @@
 
-# Transpiled JS
-dist
-
 # VScode
 .vscode
 
 # Dependency directories
 node_modules/
-
-# Logs
-logs
-*.log
